@@ -46,7 +46,7 @@ numpy==1.18.5
 openpyxl==2.6.2
 pandas==1.0.4
 Pillow==6.2.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 playsound==1.2.2
 psycopg2==2.8.3
 pygame==1.9.6
